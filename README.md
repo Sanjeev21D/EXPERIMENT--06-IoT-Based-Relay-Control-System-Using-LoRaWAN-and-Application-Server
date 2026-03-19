@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2026-03-19 160359" src="https://github.com/user-attachments/assets/ab51afed-1050-43bc-a0a0-c042726a1c74" /># EXPERIMENT--06-IoT-Based-Relay-Control-System-Using-LoRaWAN-and-Application-Server
+# EXPERIMENT--06-IoT-Based-Relay-Control-System-Using-LoRaWAN-and-Application-Server
 ## Aim
 To configure a LoRaWAN end device and monitor IR sensor data using a network server and dashboard visualization.
 
@@ -37,9 +37,9 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 ### Bulb ON → Relay ON  
 <img width="1920" height="1080" alt="Screenshot 2026-03-19 160303" src="https://github.com/user-attachments/assets/d53c1d39-839b-4f63-9e29-5e845dd99543" />
 
-### Bulb OFF → R
+### Bulb OFF → Relay OFF
 <img width="1920" height="1080" alt="Screenshot 2026-03-19 160343" src="https://github.com/user-attachments/assets/8e12163e-56be-44aa-8baa-f94deb141305" />
-elay OFF
+
 
 ## Conclusion
 The experiment demonstrates successful relay monitoring and control using LoRaWAN communication with real-time visualization on the dashboard.
